@@ -37,3 +37,15 @@ android/.gradle/
 *.keystore 
 *.jks 
 *.env 
+build/ 
+.dart_tool/ 
+.pub-cache/ 
+.packages 
+ios/Pods/ 
+android/.gradle/ 
+*.log 
+*.apk 
+*.ipa 
+*.keystore 
+*.jks 
+*.env 
