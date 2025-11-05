@@ -49,3 +49,17 @@ android/.gradle/
 *.keystore 
 *.jks 
 *.env 
+build/ 
+.dart_tool/ 
+.pub-cache/ 
+.packages 
+ios/Pods/ 
+ios/Flutter/Flutter.framework 
+android/.gradle/ 
+android/app/build/ 
+*.log 
+*.apk 
+*.ipa 
+*.keystore 
+*.jks 
+*.env 
