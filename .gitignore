@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+build/ 
+.dart_tool/ 
+.pub-cache/ 
+.packages 
+ios/Pods/ 
+android/.gradle/ 
+*.log 
+*.apk 
+*.ipa 
+*.keystore 
+*.jks 
+*.env 

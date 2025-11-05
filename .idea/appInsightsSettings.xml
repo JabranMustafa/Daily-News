@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.data.cloner.newapp" />
-                  <option name="mobileSdkAppId" value="1:188417809153:android:d647ae5ce309aa1a2e5900" />
-                  <option name="projectId" value="testingnewsapp-abe46" />
-                  <option name="projectNumber" value="188417809153" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
